@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "8dc7142e4848751b5d2b0200ba77b991",
+      "css": "free-code-camp",
+      "code": 62149,
+      "src": "fontawesome"
+    }
+  ]
+}
