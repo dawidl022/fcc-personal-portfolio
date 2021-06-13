@@ -27,6 +27,7 @@ header {
   position: sticky;
   top: 0;
   height: 0;
+  z-index: 1;
 }
 
 nav {
@@ -315,7 +316,7 @@ footer a {
   }
 
   .contacts {
-    padding: 0 20px;
+    padding: 0 10px;
     font-size: 22px;
   }
 
@@ -326,6 +327,7 @@ footer a {
   }
 
   .contact-intro {
+    padding-top: 60px;
     padding-bottom: 20px;
   }
 }
